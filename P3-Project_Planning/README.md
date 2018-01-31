@@ -17,6 +17,8 @@ For this assignment, you'll create some initial plans for your project.
 
 - [Wireframe] (https://app.moqups.com/Paulamarcia/Kn53184zdc/edit/page/ad7a7a6f4)
 
+- [Wireframe] (https://app.moqups.com/Paulamarcia/Kn53184zdc/edit/page/acd97f1ff)
+
 
 
 
