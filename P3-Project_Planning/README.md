@@ -11,11 +11,11 @@ For this assignment, you'll create some initial plans for your project.
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
 
-[Wireframe] (https://app.moqups.com/Paulamarcia/Kn53184zdc/edit/page/ad64222d5)
+- [Wireframe] (https://app.moqups.com/Paulamarcia/Kn53184zdc/edit/page/ad64222d5)
 
-[Wireframe] (https://app.moqups.com/Paulamarcia/Kn53184zdc/edit/page/acbfe3a14)
+- [Wireframe] (https://app.moqups.com/Paulamarcia/Kn53184zdc/edit/page/acbfe3a14)
 
-[Wireframe] (https://app.moqups.com/Paulamarcia/Kn53184zdc/edit/page/ad7a7a6f4)
+- [Wireframe] (https://app.moqups.com/Paulamarcia/Kn53184zdc/edit/page/ad7a7a6f4)
 
 
 
