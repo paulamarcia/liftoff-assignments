@@ -14,7 +14,7 @@ Provide a link to your GitHub account here.
 ### LinkedIn
 Provide a link to your LinkedIn account here.
 
-[LinkedIn] (https://github.com/paulamarcia)
+[LinkedIn] (https://www.linkedin.com/in/paula-carnes-488805157?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B23UtbBJaTWuyD%2Fkavai%2FYg%3D%3D)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo.
